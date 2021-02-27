@@ -13,4 +13,5 @@ app.disable('x-powered-by');
     process.env.PORT || 5000,
     function () {
       console.log(`Frontend start on http://localhost:5000`)
- applicationCach
+    }
+  );
